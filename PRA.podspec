@@ -31,7 +31,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '10.0'
 
   s.source_files = 'PRA/Classes/**/*'
-  
+  s.resources = 'PRA/Assets/**/*.{png,xib,plist,strings,ttf,json,xml,storyboard,xcassets}'
   # s.resource_bundles = {
   #   'PRA' => ['PRA/Assets/*.png']
   # }

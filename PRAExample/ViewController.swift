@@ -7,11 +7,14 @@
 //
 
 import UIKit
+import PRA
 
 class ViewController: UIViewController {
 
+    @IBOutlet var textlabel: TextLabel!
     override func viewDidLoad() {
         super.viewDidLoad()
+        textlabel.addInfo("ddddd")
         // Do any additional setup after loading the view, typically from a nib.
     }
 

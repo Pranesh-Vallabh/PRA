@@ -18,5 +18,6 @@
   "platforms": {
     "ios": "10.0"
   },
-  "source_files": "PRA/Classes/**/*"
+  "source_files": "PRA/Classes/**/*",
+  "resources": "PRA/Assets/**/*.{png,xib,plist,strings,ttf,json,xml,storyboard,xcassets}"
 }
