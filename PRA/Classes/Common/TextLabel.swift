@@ -32,7 +32,7 @@ public class TextLabel: UIView {
 
     func loadContentViewFromNib() {
         let bundle = Bundle(for: Self.self)
-        guard let contentView = UINib(nibName: String(describing: Self.self), bundle: bundle)
+        guard let contentView = UINib(nibName: String(describing: Self.self), bundle: BundleOfPraBundle.bundle())
             .instantiate(withOwner: self)
             .first as? UIView
         else { return }
