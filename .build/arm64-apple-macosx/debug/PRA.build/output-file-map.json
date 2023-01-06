@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/PVallabh/IOS/PRA/.build/arm64-apple-macosx/debug/PRA.build/master.swiftdeps"
+  },
+  "/Users/PVallabh/IOS/PRA/PRA/Classes/ReplaceMe.swift": {
+    "dependencies": "/Users/PVallabh/IOS/PRA/.build/arm64-apple-macosx/debug/PRA.build/Classes/ReplaceMe.d",
+    "object": "/Users/PVallabh/IOS/PRA/.build/arm64-apple-macosx/debug/PRA.build/Classes/ReplaceMe.swift.o",
+    "swiftmodule": "/Users/PVallabh/IOS/PRA/.build/arm64-apple-macosx/debug/PRA.build/Classes/ReplaceMe~partial.swiftmodule",
+    "swift-dependencies": "/Users/PVallabh/IOS/PRA/.build/arm64-apple-macosx/debug/PRA.build/Classes/ReplaceMe.swiftdeps"
+  }
+}
